@@ -1,0 +1,21 @@
+#container{
+    padding: 5%;
+    background-color: #EEE;
+    top: 0;
+
+}
+
+#container h1{
+    display: flex;
+    position:absolute;
+    top: 0;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aqua;
+    left: 0;
+
+}
+
+h1{
+    cursor: pointer;
+}
